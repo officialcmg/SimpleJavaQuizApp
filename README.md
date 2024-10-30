@@ -1,4 +1,4 @@
-```markdown
+
 # Java Quiz Application
 
 A desktop quiz application built with Java Swing and MySQL, allowing users to create and take multiple-choice quizzes.
@@ -12,9 +12,9 @@ A desktop quiz application built with Java Swing and MySQL, allowing users to cr
 
 ## Prerequisites
 
-- **Java JDK**: Version 8 or higher
-- **MySQL Server**: Version 8.0 or higher
-- **MySQL Connector/J**: Version 8.0.33
+- **Java JDK:** Version 8 or higher
+- **MySQL Server:** Version 8.0 or higher
+- **MySQL Connector/J:** Version 8.0.33
 
 ## Database Setup
 
@@ -117,4 +117,3 @@ String password = "your_password";
 - **Database Connection Issues**: Verify MySQL is running, check credentials, and ensure MySQL Connector is in the `lib` directory.
 - **Compilation Errors**: Verify Java installation, file locations, and classpath syntax.
 - **Runtime Errors**: Check database permissions and GUI initialization.
-```
